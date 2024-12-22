@@ -4,7 +4,6 @@ This repository contains organization-wide configuration files for GitHub, such 
 
 - Issue templates for all repositories.
 - Pull request templates.
-- Community health files (e.g., `CODE_OF_CONDUCT.md`, `CONTRIBUTING.md`).
 
 ## Adding or Modifying Templates
 
