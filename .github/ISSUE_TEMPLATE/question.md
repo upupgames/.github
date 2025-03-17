@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-**Summary**  
+**What is the topic?**  
 Briefly describe what needs to be clarified or researched.  
 
 **Questions to Answer**  
