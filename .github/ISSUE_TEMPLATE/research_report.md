@@ -1,7 +1,7 @@
 ---
-name: Question  
+name: Research Report 
 about: Request research or clarification on a topic  
-title: "[Question]: "  
+title: "[Research]: "  
 labels: question  
 assignees: ''  
 
