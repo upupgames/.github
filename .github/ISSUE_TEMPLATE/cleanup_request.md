@@ -1,4 +1,3 @@
-
 ---
 name: Cleanup Request
 about: Request cleanup, refactoring, or code quality improvements
